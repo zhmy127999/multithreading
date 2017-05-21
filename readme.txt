@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git push origin master.
 This is the last version.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
 
